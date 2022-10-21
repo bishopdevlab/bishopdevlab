@@ -1,5 +1,9 @@
 👋 Hi there
 
+Principal Software Engineer
+
+<https://bishopdevlab.github.io/>
+
 <!---
 - 👋 Hi, I’m @bishopdevlab
 - 👀 I’m interested in ...
