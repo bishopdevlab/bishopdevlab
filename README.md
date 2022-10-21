@@ -1,6 +1,5 @@
-👋 Hi there
-
-Principal Software Engineer
+👋 Hi there!
+I'm Principal Software Engineer.
 
 <https://bishopdevlab.github.io/>
 
